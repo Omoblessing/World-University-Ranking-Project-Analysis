@@ -12,11 +12,11 @@ About the data set: This dataset compares global university rankings from three 
 
 These rankings provide a varied perspective on university performance, reflecting different criteria and areas of emphasis. The World University Rankings’ dataset is an external source. The data was sourced from Kaggle, a platform known for its comprehensive datasets and analytics competitions. 
 
-**Motivation:** To gain valuable insights into global university rankings, helping students, educators, and policymakers make informed decisions. Th edataset aims to bring transparency to the evaluation processes of different ranking systems, highlighting their strengths and weaknesses. By benchmarking university performance, institutions can identify areas for improvement and restrategize accordingly. 
+**Motivation** To gain valuable insights into global university rankings, helping students, educators, and policymakers make informed decisions. Th edataset aims to bring transparency to the evaluation processes of different ranking systems, highlighting their strengths and weaknesses. By benchmarking university performance, institutions can identify areas for improvement and restrategize accordingly. 
 
-**Objective:** The objective of this dataset analysis is to evaluate ranking criteria, and provide insights for students, educators, and policymakers.
+**Objective** The objective of this dataset analysis is to evaluate ranking criteria, and provide insights for students, educators, and policymakers.
 
-**Tools used:**
+**Tools used**
 
 Excel
 Tableau
@@ -28,4 +28,16 @@ What is the strength of the relationship between academic influence and world ra
 Which academic metric (publications, influence, broad impact, or citations) has the strongest correlation with world rank?
 
 
+**Additional data used** countries.geo.json
 
+**Key steps** 
+
+Sourcing for open data, 
+
+Data cleaning and consistency checks, 
+
+Exploratory analysis, 
+
+Data analysis, 
+
+Data visualization using python

@@ -19,8 +19,12 @@ These rankings provide a varied perspective on university performance, reflectin
 **Tools used**
 
 Excel
+
 Tableau
+
 Power point
+
+Python
 
 **Key questions**
 How does the number of publications correlate with the world rank of universities?
